@@ -2,7 +2,7 @@
 
 SQL data cleaning, inventory modeling, and customer cohort analysis in Google BigQuery for **Cosmic Rings Designs**, my custom handmade jewelry shop on Etsy (1,638 orders, 1,790 line items, and $304K+ in net revenue from Aug 2020 to present).
 
-* **Interactive Tableau Public Dashboard:** [Cosmic Rings Designs Executive KPI Suite](YOUR_TABLEAU_PUBLIC_LINK_HERE)
+* **Interactive Tableau Public Dashboard:** [Cosmic Rings Designs Executive KPI Suite](https://public.tableau.com/views/CosmicRingsDesignsSalesDashboards/ExecutiveSalesOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Project Overview & Data Challenges
 Raw order and item exports from Etsy Shop Manager have a few quirks that make direct analysis tricky:
